@@ -5,6 +5,8 @@ node_modules/
 /vendor
 /_site
 
+package-lock.json
+
 .sql
 .com
 .dll
